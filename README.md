@@ -11,6 +11,6 @@
 
 # My Testing Works
 1. Codabra - Lecturer at web-courses for children
-- [Repository]: https://github.com/Lyumih/tested-codabra-web
-- Site: https://lyumih.github.io/tested-codabra-web/
+- Repository: [tested-codabra-web](https://github.com/Lyumih/tested-codabra-web)
+- Site: [lyumih.github.io/tested-codabra-web/](https://lyumih.github.io/tested-codabra-web/)
 - Stack: HTML, CSS
