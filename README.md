@@ -17,7 +17,11 @@ Below are my demonstrations and tests works
 ---
 
 ## My Demonstrations Works
-1. In Progress
+1. TypeScript from Vladilen Minin
+- Repository: [demo-typescript-vladilen](https://github.com/Lyumih/demo-typescript-vladilen)
+- Stack: TypeScript
+
+1. In Progress...
 
 ## My Tests Works
 1. Codabra - Lecturer at web-courses for children
@@ -25,4 +29,4 @@ Below are my demonstrations and tests works
 - Site: [lyumih.github.io/tested-codabra-web/](https://lyumih.github.io/tested-codabra-web/)
 - Stack: HTML, CSS
 
-2. In Progress
+2. In Progress...
