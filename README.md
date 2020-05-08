@@ -9,8 +9,8 @@
 - Stack: TypeScript, React
 - 
 
-# Мои Тестовые Работы
+# My Testing Works
 1. Codabra - Lecturer at web-courses for children
-- Repository: https://github.com/Lyumih/tested-codabra-web
+- [Repository]: https://github.com/Lyumih/tested-codabra-web
 - Site: https://lyumih.github.io/tested-codabra-web/
 - Stack: HTML, CSS
