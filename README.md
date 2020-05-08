@@ -21,6 +21,10 @@ Below are my demonstrations and tests works
 - Repository: [demo-typescript-vladilen](https://github.com/Lyumih/demo-typescript-vladilen)
 - Stack: TypeScript
 
+1. TypeScript + React from Vladilen Minin (In Progress)
+- Repository: [demo-typescript-react-vladilen](https://github.com/Lyumih/demo-typescript-react-vladilen)
+- Stack: TypeScript, React, React Router, Materialize 
+
 1. In Progress...
 
 ## My Tests Works
