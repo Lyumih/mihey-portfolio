@@ -1,12 +1,16 @@
-# Мои Демонастрационные Работы
-1. TypeScript от Владилен Минин
-- TypeScript
+# My Demonstration Works
+1. TypeScript from Vladilen Minin
+- Repository: 
+- Stack: TypeScript
 
-1. TypeScript + React от Владилен Минин
-- TypeScript
-- React
+1. TypeScript + React from Vladilen Minin
+- Repository: 
+- Site: 
+- Stack: TypeScript, React
+- 
 
 # Мои Тестовые Работы
-1. Codabra - Преподаватель на web-курсы для детей
-- HTML
-- CSS
+1. Codabra - Lecturer at web-courses for children
+- Repository: https://github.com/Lyumih/tested-codabra-web
+- Site: https://lyumih.github.io/tested-codabra-web/
+- Stack: HTML, CSS
