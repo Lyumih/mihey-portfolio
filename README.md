@@ -1,8 +1,10 @@
 # Welcome to My Portfolio Page
 I'm Mikhail Ivanov, a developer from Moscow.  
+I was born on April 2, 1996. In development since 2017.
+  
 You can contact me:
 - Email: m.ivanov1225@gmail.com
-- Phone / WhatsApp / Telegram: [+79105990489](+79105990489)
+- Phone / WhatsApp / Telegram: +79105990489
 - Skype: [m.ivanov1225](https://join.skype.com/invite/hEuh3DS9FeGF)
 - GitHub: [Lyumih](https://github.com/Lyumih)
 - VK: [vk.com/mihey_coach](https://vk.com/mihey_coach)
@@ -10,7 +12,7 @@ You can contact me:
 
 Below are my demonstrations and tests works
 
-P.S. Please write to me if you find a typo or broken link to the site or repository
+*P.S. Please write to me if you find a typo or broken link to the site or repository*
 
 ---
 
