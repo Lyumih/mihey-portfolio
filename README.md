@@ -23,6 +23,7 @@ Below are my demonstrations and tests works
 
 1. TypeScript + React from Vladilen Minin (In Progress)
 - Repository: [demo-typescript-react-vladilen](https://github.com/Lyumih/demo-typescript-react-vladilen)
+- Site: [lyumih.github.io/demo-typescript-react-vladilen](https://lyumih.github.io/demo-typescript-react-vladilen/)
 - Stack: TypeScript, React, React Router, Materialize 
 
 1. In Progress...
@@ -30,7 +31,7 @@ Below are my demonstrations and tests works
 ## My Tests Works
 1. Codabra - Lecturer at web-courses for children
 - Repository: [tested-codabra-web](https://github.com/Lyumih/tested-codabra-web)
-- Site: [lyumih.github.io/tested-codabra-web/](https://lyumih.github.io/tested-codabra-web/)
+- Site: [lyumih.github.io/tested-codabra-web](https://lyumih.github.io/tested-codabra-web/)
 - Stack: HTML, CSS
 
 2. In Progress...
