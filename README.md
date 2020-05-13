@@ -31,6 +31,11 @@ Below are my demonstrations and tests works
 - Site: [nextjs-blog.lyumih.now.sh](https://nextjs-blog.lyumih.now.sh/)
 - Stack: React, Next.js, Vercel
 
+1. Next.js + TypeScript
+- Repository: [demo-nextjs-blog-typescript](https://github.com/Lyumih/demo-nextjs-blog-typescript)
+- Site: [demo-nextjs-blog-typescript.lyumih.now.sh](https://demo-nextjs-blog-typescript.lyumih.now.sh/)
+- Stack: React, Next.js, TypeScript, Yarn, Vercel
+
 ## My Tests Works
 1. Codabra - Lecturer at web-courses for children
 - Repository: [tested-codabra-web](https://github.com/Lyumih/tested-codabra-web)
