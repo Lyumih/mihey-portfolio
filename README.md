@@ -33,8 +33,8 @@ Below are my demonstrations and tests works
 
 1. Next.js + TypeScript
 - Repository: [demo-nextjs-blog-typescript](https://github.com/Lyumih/demo-nextjs-blog-typescript)
-- Site: [demo-nextjs-blog-typescript.lyumih.now.sh](https://demo-nextjs-blog-typescript.lyumih.now.sh/)
-- Stack: React, Next.js, TypeScript, Yarn, Vercel
+- Site: [demo-nextjs-blog-typescript.netlify.app](https://demo-nextjs-blog-typescript.netlify.app/)
+- Stack: React, Next.js, TypeScript, Yarn, Netlify
 
 ## My Tests Works
 1. Codabra - Lecturer at web-courses for children
