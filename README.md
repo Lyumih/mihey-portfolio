@@ -26,7 +26,10 @@ Below are my demonstrations and tests works
 - Site: [lyumih.github.io/demo-typescript-react-vladilen](https://lyumih.github.io/demo-typescript-react-vladilen/)
 - Stack: TypeScript, React, React Router, Materialize 
 
-1. In Progress...
+1. Next.js: React Framework
+- Repository: [nextjs-blog](https://github.com/Lyumih/nextjs-blog)
+- Site: [nextjs-blog.lyumih.now.sh](https://nextjs-blog.lyumih.now.sh/)
+- Stack: React, Next.js, Vercel
 
 ## My Tests Works
 1. Codabra - Lecturer at web-courses for children
