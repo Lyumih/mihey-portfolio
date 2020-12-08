@@ -7,8 +7,8 @@ You can contact me:
 - Phone / WhatsApp / Telegram: +79105990489
 - Skype: [m.ivanov1225](https://join.skype.com/invite/hEuh3DS9FeGF)
 - GitHub: [Lyumih](https://github.com/Lyumih)
-- VK: [vk.com/mihey_coach](https://vk.com/mihey_coach)
-- Instagram: [instagram.com/mihey_coach](https://www.instagram.com/mihey_coach/)
+- VK: [vk.com/mikhail_eco_coach](https://vk.com/mikhail_eco_coach)
+- Instagram: [instagram.com/mikhail_eco_coach](https://www.instagram.com/mikhail_eco_coach/)
 
 Below are my demonstrations and tests works
 
