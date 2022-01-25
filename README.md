@@ -19,11 +19,16 @@ Below are my demonstrations and tests works
 ---
 
 ## My Demonstrations Works
-1. TypeScript from Vladilen Minin
+
+1. React Hooks
+- Repository: [demo-custom-react-hooks](https://github.com/Lyumih/demo-custom-react-hooks)
+- Stack: React Hooks
+
+1. TypeScript 
 - Repository: [demo-typescript-vladilen](https://github.com/Lyumih/demo-typescript-vladilen)
 - Stack: TypeScript
 
-1. TypeScript + React from Vladilen Minin (In Progress)
+1. TypeScript + React
 - Repository: [demo-typescript-react-vladilen](https://github.com/Lyumih/demo-typescript-react-vladilen)
 - Site: [lyumih.github.io/demo-typescript-react-vladilen](https://lyumih.github.io/demo-typescript-react-vladilen/)
 - Stack: TypeScript, React, React Router, Materialize 
